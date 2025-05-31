@@ -1,7 +1,16 @@
 # web-course-projects
 projects I did in web development course
 
-the is the final project, which was a full stack whatsapp clone using go, vue, js, and postgres
+The is the final project, which was a full stack whatsapp clone using go, vue, js, and postgres.
+Features:
+  1. Beutiful UI
+  2. Can see if Someone Saw your messages (With colored ticks)
+  3. Number of messages received from another user is shown
+  4. Add a Friend
+  5. Search chats
+  6. Can see if the other user is typing
+  7. Change information
+  8. Create Group
 
 
 
